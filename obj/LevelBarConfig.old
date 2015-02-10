@@ -32,18 +32,18 @@
     </define>
     <verbose-stacktraces>true</verbose-stacktraces>
     <source-path append="true">
-      <path-element>D:\ProBigi\FLASH\TZ Nevosoft\LevelBar\src</path-element>
+      <path-element>D:\ProBigi\FLASH\TZ_Nevosoft\LevelBar\src</path-element>
       <path-element>C:\Program Files (x86)\FlashDevelop\Library\AS3\classes</path-element>
     </source-path>
     <include-libraries>
-      <library>D:\ProBigi\FLASH\TZ Nevosoft\LevelBar\lib\res.swc</library>
+      <library>D:\ProBigi\FLASH\TZ_Nevosoft\LevelBar\lib\res.swc</library>
     </include-libraries>
     <library-path append="true">
-      <path-element>D:\ProBigi\FLASH\TZ Nevosoft\LevelBar\lib\EazeTween-rc1.swc</path-element>
+      <path-element>D:\ProBigi\FLASH\TZ_Nevosoft\LevelBar\lib\EazeTween-rc1.swc</path-element>
     </library-path>
   </compiler>
   <file-specs>
-    <path-element>D:\ProBigi\FLASH\TZ Nevosoft\LevelBar\src\Main.as</path-element>
+    <path-element>D:\ProBigi\FLASH\TZ_Nevosoft\LevelBar\src\Main.as</path-element>
   </file-specs>
   <default-background-color>#FFFFFF</default-background-color>
   <default-frame-rate>30</default-frame-rate>

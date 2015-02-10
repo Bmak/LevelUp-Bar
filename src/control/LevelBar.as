@@ -97,7 +97,10 @@ package control
 		}
 		
 		private function endBarTween():void {
-			if (_bar.scaleX == 1) { _bar.scaleX = 0; }
+			if (_bar.scaleX == 1) { 
+				_bar.scaleX = 0;
+				updateExp(0);
+			}
 		}
 		
 		//Новый уровень

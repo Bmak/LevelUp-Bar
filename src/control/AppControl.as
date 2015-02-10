@@ -85,7 +85,7 @@ package control
 		private function initLevelBar(data:XML):void {
 			_levelBar = new LevelBar(data);
 			_levelBar.x = (_mainView.stage.stageWidth - _levelBar.width) / 2;
-			_levelBar.y = _mainView.stage.stageHeight / 4;
+			_levelBar.y = 100;
 			_mainView.addChild(_levelBar);
 		}
 		
