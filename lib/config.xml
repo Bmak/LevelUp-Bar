@@ -1,0 +1,13 @@
+<config>
+  <up>10</up>
+  <currentLevel>0</currentLevel>
+  <currentExp>0</currentExp>
+  <levels>
+    <level>30</level>
+    <level>50</level>
+    <level>100</level>
+    <level>150</level>
+    <level>200</level>
+    <level>300</level>
+  </levels>
+</config>
